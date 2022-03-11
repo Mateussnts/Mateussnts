@@ -29,7 +29,6 @@ and I will try to show a little bit about myself for you.
   <img align="center" alt="Mads-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
   <img align="center" alt="Mads-Spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg">
 
- ![Snake animation](https://github.com/mateussnts/mateussnts/blob/output/github-contribution-grid-snake.svg)
 
   
 </div>
